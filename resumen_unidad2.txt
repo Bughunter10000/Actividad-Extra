@@ -1,1 +1,8 @@
 "Resumen de la Unidad 2..." 
+Conceptos básicos para iniciar a programar: Antes de programar, es importante entender la sintaxis del lenguaje, la lógica de programación y cómo se estructuran los programas.
+
+Tipos de datos y operadores: Los tipos de datos, como enteros, flotantes y cadenas de texto, determinan qué valores puede almacenar una variable. Los operadores (+, -, *, /, etc.) permiten realizar operaciones matemáticas y lógicas.
+
+Estructuras de Control Condicionales: Son instrucciones como "if-else" que permiten ejecutar código dependiendo de ciertas condiciones.
+
+Estructuras de Control de Bucles: Permiten repetir instrucciones varias veces. Los más comunes son "for" y "while".
