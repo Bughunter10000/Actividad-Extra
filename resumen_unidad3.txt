@@ -1,1 +1,10 @@
 "Resumen de la Unidad 3..." 
+Controlador de Versiones: Es un sistema que permite gestionar cambios en archivos de código, facilitando la colaboración y recuperación de versiones anteriores.
+
+GIT: Es un sistema de control de versiones distribuido que permite rastrear cambios en el código fuente y coordinar el trabajo entre desarrolladores.
+
+GitHub: Es una plataforma basada en la web que permite almacenar y gestionar proyectos usando GIT, facilitando la colaboración en equipos.
+
+Instrucciones Básicas de GIT: Incluyen comandos como git init, git add, git commit, git push, git pull, entre otros, que permiten administrar los repositorios.
+
+Ejemplos de Uso de GitHub: Incluyen la creación de repositorios, la gestión de branches y la realización de pull requests para colaborar en proyectos de software.
