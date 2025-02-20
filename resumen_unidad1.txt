@@ -1,1 +1,8 @@
 "Resumen de la Unidad 1..." 
+Sistema Binario: Es el sistema numérico que usa solo dos dígitos, 0 y 1. Es fundamental para el funcionamiento de las computadoras, ya que toda la información se representa en este formato.
+
+Lógica: La lógica se usa en programación para la toma de decisiones. Se basa en operaciones como AND, OR y NOT.
+
+Algoritmo: Es un conjunto de pasos o instrucciones que permiten resolver un problema de manera estructurada.
+
+Programación: Es el proceso de escribir instrucciones en un lenguaje entendible por una computadora para realizar una tarea específica.
